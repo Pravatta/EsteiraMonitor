@@ -1,17 +1,31 @@
+# 📦 Exibição e Controle Logístico em Esteiras Industriais  
 
-# Exibição e Controle Logístico em Esteiras Industriais
+## 🎯 Objetivo do Software  
+Este software foi desenvolvido para modernizar e facilitar o monitoramento das esteiras de uma transportadora. Antes, o processo utilizava planilhas manuais em papel, o que demandava tempo, esforço e gerava desperdício de recursos. Com a nova interface, é possível:  
 
-🎯 Objetivo do Software
-Este software foi desenvolvido para modernizar e facilitar o monitoramento das esteiras de uma transportadora. Antes, o processo utilizava planilhas manuais em papel, o que demandava tempo, esforço e gerava desperdício de recursos. Com a nova interface, é possível:
+- 👀 **Visualizar em tempo real** o que está sendo transportado em cada esteira.  
+- ⚙️ **Identificar rapidamente** os clientes e possíveis problemas, como falta de caixas.  
+- 📋 **Melhorar a organização** e a tomada de decisões.  
+- 🌱 **Reduzir o uso de papel**, contribuindo para práticas mais sustentáveis.  
 
-👀 Visualizar em tempo real o que está sendo transportado em cada esteira.
-⚙️ Identificar rapidamente os clientes e possíveis problemas, como falta de caixas.
-📋 Melhorar a organização e a tomada de decisões.
-🌱 Reduzir o uso de papel, contribuindo para práticas mais sustentáveis.
-Observação: Este software foi projetado para operar com 8 esteiras de um sorter. A interface é a mesma, mas as consultas de dados são específicas para cada esteira, permitindo uma visualização personalizada.
+> **Observação:** Este software foi projetado para operar com 8 esteiras de um sorter. A interface é a mesma, mas as consultas de dados são específicas para cada esteira, permitindo uma visualização personalizada.  
 
-🔍 Ponto Importante
-O sistema é totalmente dependente dos dados provenientes do Sorter, que está integrado ao banco de dados. Todas as informações que aparecem no sistema, como caixas processadas, rejeitadas e faltantes, são registradas automaticamente no banco assim que passam pelo Sorter. A lógica do script utiliza essas informações em tempo real para exibir os dados atualizados nas telas. Portanto, é fundamental que o banco de dados esteja configurado corretamente e sincronizado com o Sorter para o sistema funcionar adequadamente.
+---
+
+## 🔍 Ponto Importante  
+O sistema é totalmente dependente dos dados provenientes do **Sorter**, que está integrado ao banco de dados. Todas as informações exibidas, como:  
+
+- 📦 **Caixas processadas**  
+- 🚫 **Caixas rejeitadas**  
+- ❌ **Caixas faltantes**  
+
+São registradas automaticamente no banco de dados assim que passam pelo Sorter.  
+
+A lógica do script utiliza essas informações em tempo real para exibir os dados atualizados nas telas. **Portanto, é fundamental que o banco de dados esteja configurado corretamente e sincronizado com o Sorter** para o sistema funcionar adequadamente.  
+
+---
+
+Essa versão está mais organizada e usa uma estrutura consistente com cabeçalhos, listas e espaçamentos claros para facilitar a leitura. Se precisar de ajustes adicionais, é só avisar! 😊
 
 ![image](https://github.com/user-attachments/assets/fa1881c4-87a8-45a1-ae8e-d1a9b96d592d)
 
