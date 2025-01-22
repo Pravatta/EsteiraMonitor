@@ -332,3 +332,5 @@ Se a mensagem **"Conexão bem-sucedida!"** aparecer, o banco está configurado c
 Com essas etapas, qualquer pessoa conseguirá configurar o banco de dados e usar o sistema sem dificuldades. 🚀
 
 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
