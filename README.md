@@ -25,7 +25,6 @@ A lógica do script utiliza essas informações em tempo real para exibir os dad
 
 ---
 
-Essa versão está mais organizada e usa uma estrutura consistente com cabeçalhos, listas e espaçamentos claros para facilitar a leitura. Se precisar de ajustes adicionais, é só avisar! 😊
 
 ![image](https://github.com/user-attachments/assets/fa1881c4-87a8-45a1-ae8e-d1a9b96d592d)
 
