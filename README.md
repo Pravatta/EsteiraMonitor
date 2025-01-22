@@ -3,7 +3,7 @@
 
 Este sistema exibe em tempo real informações detalhadas sobre os produtos na esteira de transporte, auxiliando a equipe a monitorar o fluxo de caixas, seus status e atualizações instantâneas.
 
-![image](https://github.com/user-attachments/assets/c41e9498-69c5-4967-bb32-7e784cc918d2)
+![image](https://github.com/user-attachments/assets/fa1881c4-87a8-45a1-ae8e-d1a9b96d592d)
 
 ---
 🔍 Ponto Importante
